@@ -1,0 +1,10 @@
+127.0.0.1 - - [13/Mar/2023:14:34:47 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Mar/2023:14:34:49 +0530] "GET /project/Login.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [13/Mar/2023:14:34:52 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Mar/2023:14:35:04 +0530] "GET /project/Signup.html HTTP/1.1" 304 -
+127.0.0.1 - - [13/Mar/2023:14:55:29 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [13/Mar/2023:14:56:51 +0530] "POST /project/customersignup HTTP/1.1" 200 791
+0:0:0:0:0:0:0:1 - - [13/Mar/2023:14:57:36 +0530] "GET /project/Login.html?custid=12110111&password=1234567 HTTP/1.1" 200 662
+0:0:0:0:0:0:0:1 - - [13/Mar/2023:14:58:38 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [13/Mar/2023:14:59:21 +0530] "POST /project/customersignup HTTP/1.1" 200 1468
+0:0:0:0:0:0:0:1 - - [13/Mar/2023:15:00:25 +0530] "POST /project/customersignup HTTP/1.1" 200 791
